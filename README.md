@@ -20,10 +20,4 @@ A FastAPI-based application that lets users upload PDF files and ask context-bas
 - Qdrant (Vector Database)
 - Valkey (Task Queue / In-memory Store)
 - Redis Queue (`rq`)
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pdf-rag.git
-   cd pdf-rag
+- streamlit
